@@ -1,5 +1,4 @@
-# [Leetcode 1657: Determine if Two Strings Are
-Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
+# [Leetcode 1657: Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 
 ## Description 
 
@@ -35,8 +34,7 @@ directly with `set(w)`, which is a little clearer.
 ## Learnings 
 
 * This was a fun problem, shows the usefulness of the idea of an invariant; it
-  felt very math-y and reminded me of times when I was doing [semigroup
-theory](https://en.wikipedia.org/wiki/Semigroup). I believe this problem could
+  felt very math-y and reminded me of times when I was doing [semigroup theory](https://en.wikipedia.org/wiki/Semigroup). I believe this problem could
 be formulated in a way that it is about commutative semigroups.
 
 * You can be optimistic about what is possible with Python strings, usually the
